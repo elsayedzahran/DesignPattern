@@ -1,0 +1,11 @@
+
+‰
+java:S1192"lDefine a constant instead of duplicating this literal "
+-----------------------------------------
+" 4 times.(ÒÄÿˆ8ĞÊ÷Ö¥1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÄÿˆ8×Ê÷Ö¥1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÒÄÿˆ8×Ê÷Ö¥1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ÒÄÿˆ8ØÊ÷Ö¥1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ÒÄÿˆ8ØÊ÷Ö¥1
+I
+java:S1128"-Remove this unused import 'Singelton.Logger'.(ığÌY8í’íç¥1

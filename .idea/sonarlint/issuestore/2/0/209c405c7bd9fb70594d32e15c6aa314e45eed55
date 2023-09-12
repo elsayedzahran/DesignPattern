@@ -1,0 +1,11 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õº®øÿÿÿÿÿ8©ôÖ¥1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¦¾õûÿÿÿÿ8¯ÆÃ‡¤1
+‰
+java:S4165"gRemove this useless assignment; "ownerName" already holds the assigned value along all execution paths.(Äš§óøÿÿÿÿ8½“íç¥1
+P
+java:S1172".Remove this unused method parameter "Message".(Õº®øÿÿÿÿÿ8™©ôÖ¥1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(Äš§óøÿÿÿÿ8Ÿì°½¤1
+A
+java:S1128"$Remove this unused import 'sms.Sms'.(‹µ€8Ã“íç¥1
